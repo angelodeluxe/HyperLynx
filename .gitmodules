@@ -1,3 +1,6 @@
 [submodule "lynxchan"]
 	path = lynxchan
 	url = https://gitgud.io/LynxChan/LynxChan
+[submodule "penumbralynx"]
+	path = penumbralynx
+	url = https://gitgud.io/LynxChan/PenumbraLynx
