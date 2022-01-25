@@ -1,6 +1,6 @@
-[submodule "lynxchan"]
-	path = lynxchan
+[submodule "imageboard/source/LynxChan"]
+	path = imageboard/source/LynxChan
 	url = https://gitgud.io/LynxChan/LynxChan
-[submodule "penumbralynx"]
-	path = penumbralynx
+[submodule "imageboard/source/PenumbraLynx"]
+	path = imageboard/source/PenumbraLynx
 	url = https://gitgud.io/LynxChan/PenumbraLynx
